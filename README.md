@@ -1,6 +1,9 @@
 ### About Me
-<h1 align="left">Hi 👋, This is sangyun Han, a developer who codes dreams.</h1>
-<p align="left">I am working with the mission of change the world a better than yesterday!</p>
+<h1 align="left">안녕하세요 👋, 꿈을 향해 성장하는 프론트엔드 개발자 한상윤입니다.</h1>
+<p align="left">어제보다 더 나은 코드를 만들자는 사명감으로 열심히 공부하고 있습니다!</p>
+
+- 개발 공부 블로그 <a href="https://hsy742010.tistory.com/" target="_blank">https://hsy742010.tistory.com/</a>
+- 깃허브 <a href="https://github.com/Yun7420" target="_blank">https://github.com/Yun7420</a>
 
 </br><hr></br>
 
