@@ -5,15 +5,15 @@
 </br><hr></br>
 
 ### All Project
-- 📘 My Portfolio Project - one [IGC TIMS(입주자정보관리시스템)](https://tims.igc.or.kr/igc/index.do)
+- 📘 My Portfolio Project - 포트폴리오 사이트 준비중입니다.
 
 ### Company Project
 - 📘 My Company Project - one [IGC TIMS(입주자정보관리시스템)](https://tims.igc.or.kr/igc/index.do)
 - 📘 My Company Project - two [IBIOMAP](https://ibiomap.or.kr/app/index.do)
 
 ### Personal Project
-- 📘 My Company Project - one [IGC TIMS(입주자정보관리시스템)](https://tims.igc.or.kr/igc/index.do)
-- 📘 My Company Project - two [IBIOMAP](https://ibiomap.or.kr/app/index.do)
+- 📘 My Personal Project - 개인프로젝트 준비중입니다.
+- 📘 My Personal Project - 개인프로젝트 준비중입니다.
 
 </br><hr></br>
 
