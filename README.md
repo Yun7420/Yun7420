@@ -13,8 +13,8 @@
 - 📘 My Portfolio Project - 포트폴리오 사이트 준비중입니다.
 
 ### Company Project
-- 📘 My Company Project 01 - [IGC TIMS(입주자정보관리시스템)](https://tims.igc.or.kr/igc/index.do)
-- 📘 My Company Project 02 - [IBIOMAP](https://ibiomap.or.kr/app/index.do)
+- 📘 My Company Project 01 - [IGC TIMS(입주자정보관리시스템)](https://tims.igc.or.kr/igc/index.do) ※프론트Team 백앤드Team 협업
+- 📘 My Company Project 02 - [IBIOMAP](https://ibiomap.or.kr/app/index.do) ※프론트Team 백앤드Team 협업
 
 ### Personal Project
 - 📘 My Personal Project 01 - 개인프로젝트 준비중입니다.
