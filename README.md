@@ -10,17 +10,14 @@
 </br><hr></br>
 
 ### All Project
-- 📘 My Portfolio Project - 포트폴리오 사이트 준비중입니다.
+- 📘 포트폴리오 사이트 준비중입니다.
 
 ### Company Project
-- 📘 My Company Project 01 - [IGC TIMS(입주자정보관리시스템)] https://tims.igc.or.kr/igc/index.do
-  프론트Team 백앤드Team 협업
-- 📘 My Company Project 02 - [IBIOMAP] https://ibiomap.or.kr/app/index.do
-  프론트Team 백앤드Team 협업
+- 📘 [IGC TIMS(입주자정보관리시스템)] https://tims.igc.or.kr/igc/index.do - 프론트Team 백앤드Team 협업
+- 📘 [IBIOMAP] https://ibiomap.or.kr/app/index.do - 프론트Team 백앤드Team 협업
 
 ### Personal Project
-- 📘 My Personal Project 01 - [나만의 할일옥록 미니프로젝트] https://yun7420.github.io/todo_list-2023/
-  자바스크립트, 리액트, 스타일 컴포넌트 활용
+- 📘 [나만의 할일옥록 미니프로젝트] https://yun7420.github.io/todo_list-2023/ - 자바스크립트, 리액트, 스타일 컴포넌트 활용
 - 📘 My Personal Project 02 - 개인프로젝트 준비중입니다.
 
 </br><hr></br>
