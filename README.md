@@ -17,8 +17,8 @@
 - 📘 [IBIOMAP](https://ibiomap.or.kr/app/index.do) - 프론트, 백엔드 협업
 
 ### Personal Project
-- 📘 [할일 목록 미니프로젝트](https://yun7420.github.io/todo_list-2023/) - 자바스크립트, 리액트, 스타일 컴포넌트 사용
-- 📘 My Personal Project 02 - 개인프로젝트 준비중입니다.
+- 📘 [할일 목록 미니프로젝트](https://yun7420.github.io/todo_list-2023/) - Js, React, Styled Components 사용
+- 📘 [가위바위보 게임 미니프로젝트](https://yun7420.github.io/rockscissorspaper-2023/) - Js, Ts, React, Css 사용
 
 </br><hr></br>
 
