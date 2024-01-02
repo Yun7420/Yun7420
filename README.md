@@ -13,12 +13,12 @@
 - 📘 포트폴리오 사이트 준비중입니다.
 
 ### Company Project
-- 📘 [IGC TIMS(입주자정보관리시스템)](https://tims.igc.or.kr/igc/index.do) - 프론트, 백엔드 협업
-- 📘 [IBIOMAP](https://ibiomap.or.kr/app/index.do) - 프론트, 백엔드 협업
+- 📘 [IGC TIMS(입주자정보관리시스템)](https://tims.igc.or.kr/igc/index.do) - FrontEnd, BackEnd 협업
+- 📘 [IBIOMAP](https://ibiomap.or.kr/app/index.do) - FrontEnd, BackEnd 협업
 
 ### Personal Project
-- 📘 [할일 목록 미니프로젝트](https://yun7420.github.io/todo_list-2023/) - Js, React, Styled Components 사용
-- 📘 [가위바위보 게임 미니프로젝트](https://yun7420.github.io/rockscissorspaper-2023/) - Js, Ts, React, Css 사용
+- 📘 [할일 목록 미니프로젝트](https://yun7420.github.io/todo_list-2023/) - Javascript, React, Styled Components 사용
+- 📘 [가위바위보 게임 미니프로젝트](https://yun7420.github.io/rockscissorspaper-2023/) - Javascript, Typescript, React, Css 사용
 
 </br><hr></br>
 
