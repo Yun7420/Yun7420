@@ -19,6 +19,7 @@
 ### Personal Project
 - 📘 [할일 목록 미니프로젝트](https://yun7420.github.io/todo_list-2023/) - Javascript, React, Styled Components 사용
 - 📘 [가위바위보 게임 미니프로젝트](https://yun7420.github.io/rockscissorspaper-2023/) - Javascript, Typescript, React, Css 사용
+- 📘 [날씨 프로젝트](https://yun7420.github.io/weather-2023/) - Javascript, React. Scss 사용
 
 </br><hr></br>
 
