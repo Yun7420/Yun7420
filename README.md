@@ -10,16 +10,16 @@
 </br><hr></br>
 
 ### All Project
-- 📘 포트폴리오 사이트 준비중입니다.
+- 📘 [포트폴리오 사이트](https://yun7420.github.io/portfolio-2023/) - JavaScript, TypeScript, React, SCSS 사용
 
 ### Company Project
 - 📘 [IGC TIMS(입주자정보관리시스템)](https://tims.igc.or.kr/igc/index.do) - FrontEnd, BackEnd 협업
 - 📘 [IBIOMAP](https://ibiomap.or.kr/app/index.do) - FrontEnd, BackEnd 협업
 
 ### Personal Project
-- 📘 [할일 목록 미니프로젝트](https://yun7420.github.io/todo_list-2023/) - Javascript, React, Styled Components 사용
-- 📘 [가위바위보 게임 미니프로젝트](https://yun7420.github.io/rockscissorspaper-2023/) - Javascript, Typescript, React, Css 사용
-- 📘 [날씨 프로젝트](https://yun7420.github.io/weather-2023/) - Javascript, React. Scss 사용
+- 📘 [할일 목록 미니프로젝트](https://yun7420.github.io/todo_list-2023/) - JavaScript, React, Styled Components 사용
+- 📘 [가위바위보 게임 미니프로젝트](https://yun7420.github.io/rockscissorspaper-2023/) - JavaScript, TypeScript, React, CSS 사용
+- 📘 [날씨 프로젝트](https://yun7420.github.io/weather-2023/) - JavaScript, React. SCSS 사용
 
 </br><hr></br>
 
