@@ -9,7 +9,7 @@
 
 </br><hr></br>
 
-### All Project
+### Portfolio
 - 📘 [포트폴리오 사이트](https://yun7420.github.io/portfolio-2023/) - JavaScript, TypeScript, React, Sass(SCSS) 사용
 
 ### Company Project
