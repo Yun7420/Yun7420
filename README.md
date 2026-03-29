@@ -10,7 +10,7 @@
 </br><hr></br>
 
 ### Portfolio
-- 📘 [포트폴리오 사이트](https://yun7420.github.io/portfolio-2023/) - JavaScript, TypeScript, React, Sass(SCSS) 사용
+- 📘 [포트폴리오 사이트](https://portfolio-hsy.vercel.app/) - React, TypeScript, Tailwind CSS
 
 ### Company Project
 - 📘 [IGC TIMS(입주자정보관리시스템)](https://tims.igc.or.kr/igc/index.do) - HTML, CSS, JavaScript, jQuery 사용 및 FrontEnd, BackEnd 협업
