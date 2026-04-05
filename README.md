@@ -11,16 +11,7 @@
 
 ### Portfolio
 - 📘 [포트폴리오 사이트](https://portfolio-hsy.vercel.app/) - React, TypeScript, Tailwind CSS
-
-### Company Project
-- 📘 [IGC TIMS(입주자정보관리시스템)](https://tims.igc.or.kr/igc/index.do) - HTML, CSS, JavaScript, jQuery 사용 및 FrontEnd, BackEnd 협업
-- 📘 [IBIOMAP](https://ibiomap.or.kr/app/index.do) - HTML, CSS, JavaScript, jQuery 사용 및 FrontEnd, BackEnd 협업
-
-### Personal Project
-- 📘 [할일 목록 미니프로젝트](https://yun7420.github.io/todo_list-2023/) - JavaScript, React, Styled-Components 사용
-- 📘 [가위바위보 게임 미니프로젝트](https://yun7420.github.io/rockscissorspaper-2023/) - JavaScript, TypeScript, React, CSS 사용
-- 📘 [날씨 프로젝트](https://yun7420.github.io/weather-2023/) - JavaScript, React, Redux, Sass(SCSS) 사용
-- 📘 [넷플릭스 프로젝트](https://yun7420.github.io/netflix-demo-2024/) - JavaScript, React, React Query, Bootstrap, CSS 사용
+- 📘 [날씨 사이드 프로젝트](https://weather-hsy.vercel.app/) - Next.js, TypeScript, Tailwind CSS, React Query, and Zustand
   
 </br><hr></br>
 
